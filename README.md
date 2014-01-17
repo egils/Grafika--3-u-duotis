@@ -19,7 +19,7 @@ Apie
 ====
 
 Pateiktoje programoje atliktos pirmos trys dalys, tačiau žaidimo dalis neviešinama.
-Valdymas: pele arba klavišų kombinacijomis E/R (rex axis), F/G (green axis), V/B (blue axis).
+Valdymas: pele arba klavišų kombinacijomis E/R (red axis), F/G (green axis), V/B (blue axis).
 
 Pateikiamas Makefile programos paleidimui.
 
